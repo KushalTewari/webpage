@@ -55,7 +55,7 @@ const App = () => {
                 </div>
 
                 <div className='box'>
-                <p className='box-text'> <img src={Pic4} className='box-image'/> Toll Free 1800 200 1234 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src={Pic5} className='box-image'/>facebook.com/cripumps&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src={Pic6} className='box-image'/>www.crigroups.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                <p className='box-text'> <img src={Pic4} alt="" className='box-image'/> Toll Free 1800 200 1234 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src={Pic5} alt="" className='box-image'/>facebook.com/cripumps&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src={Pic6} alt="" className='box-image'/>www.crigroups.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
                 
                 </div>
                                 
